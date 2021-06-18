@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("こんにちは！");
 		System.out.println(s);
 		System.out.println("dogAで作業");
+		System.out.println("dogAで作業2");
 	}
 
 }
