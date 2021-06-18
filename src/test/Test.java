@@ -7,6 +7,7 @@ public class Test {
 		String s = "こんばんは！";
 		System.out.println("こんにちは！");
 		System.out.println(s);
+		System.out.println("dogAで作業");
 	}
 
 }
